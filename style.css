@@ -84,3 +84,13 @@ body {
     top: 0;
     left: 20px;
   }
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    background: rgb(46, 38, 38);
+    font-size: 80%;
+  }
